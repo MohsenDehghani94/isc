@@ -1,9 +1,9 @@
 {
   "rows":[
-   { "id": 1, "name": "ملت", "number": 400,"amount":20000,"date":"1402.10.18" },
-   { "id": 2, "name": "ملي", "number": 200,"amount":30000,"date":"1402.4.12"},
-   { "id": 3, "name": "پاسارگاد", "number": 120,"amount":40000,"date":"1402.1.1"},
-   { "id": 4, "name": "صادرات", "number": 94,"amount":50000,"date":"1402.5.28" }
+   { "id": 1, "name": "ملت", "number": 400,"amount":20000,"date":"1382.10.18" },
+   { "id": 2, "name": "ملي", "number": 200,"amount":30000,"date":"1401.4.12"},
+   { "id": 3, "name": "پاسارگاد", "number": 120,"amount":40000,"date":"1400.1.1"},
+   { "id": 4, "name": "صادرات", "number": 94,"amount":50000,"date":"1392.5.28" }
   ],
  "columns": [
    { "field": "name", "headerName":" نام بانک", "width": 200 },
